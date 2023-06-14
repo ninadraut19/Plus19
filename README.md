@@ -44,7 +44,7 @@
 
 
 
-## --------------------------------------------------------------------------------------------------------------
+## ========================================================
 # After we execute the above function we have to call the function 
 # Test Case 1 :- 
 ## SELECT CalculateMaxWeightDifference(5, 2, '8 4 5 2 10') AS max_difference;
